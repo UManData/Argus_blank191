@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9UtbV+h2BAz1jftX6HYEDPXQm1fodgQM9hNLV+h2BAz2VetX6HYEDPaYi1fodgQM9ts7V+h2BAz3HdtX6HYEDPdge1fodgQM96MrV+h2BAz35ctX6HYEDPgoa1fodgQM+GsbV+h2BAz4rbtX6HYEDPjwW1fodgQM+TMLV+h2BAz5datX6HYEDPm4S1fodgQM+fr7V+h2BAz6PZtX6HYEDPqAS1fodgQM+sLrV+h2BAz7BYtX6HYEDPtIO1fodgQM+4rTooZtBAz7zXOihm0EDPwQI6qIaiQM/FLDooZtBAz8lWtX6HYEDPzYG1fodgQM/Rqzsolo1Az9XVO1LALEDP2gA6KGbQQM/eKjv88cxAz+JUO5OJtkDP5n8759z6QM/qqTx89dxAz+7TPBONuEDP8v48KKKLQM/3KDw9t15Az/tSPCiii0DP/308UswyQNADpzwJA09A0AfSPCiii0DQC/w8HhghQNAQJjxdVp1A0BRRPB4YIUDQGHs8XVadQNAcpTvSyChA0CDQPD23XkDQJPo8PbdeQNApJDweGCFA0C1PPIPAJEDQMXk8E424QNA1ozwoootA0DnOPCiii0DQPfg8k4/FQNBCIju9s1dA0EZNO6ieh0DQSnc7KJaN",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.493428677354709,
+        "center_signal": 5.105138740530394,
+        "high_dac": 6.501995811623246,
+        "high_resolving_power": 1201.2207074072903,
+        "high_signal": 0.9034969611860637,
+        "low_dac": 6.484861543086172,
+        "low_resolving_power": 492.8875053272713,
+        "low_signal": 0.9908116340131511,
+        "points": "QM9Utb10UjJAz1jfvpglIUDPXQm+pX48QM9hND3CagxAz2VePhr+NUDPaYi9R6d8QM9tszyrrGNAz3HdvoIPLEDPdgc/A4Q4QM96Mj6br4JAz35cPzcD1UDPgoY/HluJQM+GsT/0l4ZAz4rbQCXJ6UDPjwVAfcb0QM+TMECDeWJAz5daQJkKL0DPm4RAkouzQM+fr0CRPB9Az6PZQJVlb0DPqARAhQ8HQM+sLkCXm1FAz7BYQIZWrUDPtINAjbbQQM+4rUCSHnFAz7zXQIwhD0DPwQJAif7jQM/FLECTkSZAz8lWQJ1mgEDPzYFAkgruQM/Rq0CFMiJAz9XVQImRqEDP2gBAl/UUQM/eKkCStqBAz+JUQKMJp0DP5n9AmqAaQM/qqUCSqutAz+7TQHuk/0DP8v5AmWP0QM/3KECR0GZAz/tSQIJ0EUDP/31Ag4UWQNADp0Bim0dA0AfSQDysHUDQC/xAEfRsQNAQJj9344JA0BRRvJ59tkDQGHs9PrdHQNAcpT6PDtZA0CDQvmGnWkDQJPo9UiNoQNApJD1lj49A0C1PPQCQoEDQMXm+TjyEQNA1o75dxTFA0DnOvmErFUDQPfi+lnI3QNBCIr6H4llA0EZNOsanpUDQSne8jvRH",
+        "resolution": 335.3846697722648
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
