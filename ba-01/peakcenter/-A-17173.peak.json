@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9jN7V+V2VAz2dhtX5XZUDPa4u1fldlQM9vtrV+V2VAz3PgtX5XZUDPeAq1fldlQM98NbV+V2VAz4BfOihm3EDPhIm1fldlQM+ItLV+V2VAz4zeOihm3EDPkQi1fldlQM+VMzooZtxAz5ldtX5XZUDPnYc6KGbcQM+hsrV+V2VAz6XcOqiGqEDPqgY7KJaQQM+uMTt86c9Az7JbO/zxzUDPtoU70sgqQM+6sDqohqhAz77aO72zWUDPwwU7UsAvQM/HLzt86c9Az8tZO/zxzUDPz4Q7fOnPQM/TrjuTibhAz9fYO72zWUDP3AM8CQNQQM/gLTuonohAz+RXPAkDUEDP6II8CQNQQM/srDvSyCpAz/DWO+fc+0DP9QE7k4m4QM/5KzqohqhAz/1VO9LIKkDQAYA7k4m4QNAFqju9s1lA0AnUO6ieiEDQDf87/PHNQNASKTt86c9A0BZUO5OJuEDQGn47KJaQQNAeqDtSwC9A0CLTOvzZ5EDQJv06qIaoQNArJzooZtxA0C9StX5XZUDQM3y1fldlQNA3prV+V2VA0DvRtX5XZUDQP/u1fldlQNBEJbV+V2VA0EhQtX5XZUDQTHq1fldlQNBQpLV+V2VA0FTPtX5XZUDQWPm1fldl",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.49571066132265,
+        "center_signal": 2.7400736694603927,
+        "high_dac": 6.5041274949899845,
+        "high_resolving_power": 463.8318483547924,
+        "high_signal": 0.47193971490171566,
+        "low_dac": 6.487293827655315,
+        "low_resolving_power": 1478.2441187216405,
+        "low_signal": 0.4962459703332453,
+        "points": "QM9jNzzz4fBAz2dhvfAMLEDPa4u+EEwgQM9vtj7VoMNAz3PgvoCzy0DPeAo8QI3TQM98Nb6vDpxAz4BfvDRWLkDPhIm9jfqQQM+ItD0NXQBAz4zePusAOkDPkQg+bs6eQM+VMz5qb7BAz5ldPyZS5EDPnYc/Z47AQM+hsj+SlMpAz6XcP8eypkDPqgY/5vIzQM+uMUAtI5tAz7JbQBMJdEDPtoU/4YjtQM+6sEAPgkBAz77aQA6gdUDPwwVAASenQM/HL0AFQpFAz8tZP/qGl0DPz4RAD7jBQM/TrkAVWT1Az9fYP+uRLkDP3ANAEbqkQM/gLUABRstAz+RXQAutPUDP6II//+CSQM/srD/pYNFAz/DWP/xKDkDP9QFACzh1QM/5K0AGuD5Az/1VP+ws10DQAYA/8UhmQNAFqj/nT5hA0AnUQCO8yEDQDf8/ydNNQNASKT/qmCFA0BZUP+gZ8UDQGn4/zkNTQNAeqD+jDHRA0CLTPn/OD0DQJv09DV0AQNArJz5q7ANA0C9SPn1gbEDQM3y+CAteQNA3pj6MSW9A0DvRPtFBoEDQP/u9yTWAQNBEJT4AkilA0EhQvb2OqUDQTHo+gR3aQNBQpD5vx0VA0FTPvnyM7kDQWPm81nZ8",
+        "resolution": 344.0519766454444
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
