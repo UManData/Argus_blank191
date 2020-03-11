@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9j8bV+h2BAz2gbtX6HYEDPbEW1fodgQM9wcLV+h2BAz3SatX6HYEDPeMS1fodgQM9877V+h2BAz4EZtX6HYEDPhUS1fodgQM+JbrV+h2BAz42YtX6HYEDPkcM6KGbQQM+V7TooZtBAz5oXOihm0EDPnkI6KGbQQM+ibDt86cxAz6aWOyiWjUDPqsE7UsAsQM+u6zsolo1Az7MVO72zV0DPt0A7k4m2QM+7ajv88cxAz7+UO1LALEDPw787/PHMQM/H6TuTibZAz8wTO72zV0DP0D47k4m2QM/UaDxdVp1Az9iTO6ieh0DP3L07vbNXQM/g5zvSyChAz+USO+fc+kDP6Tw8HhghQM/tZjwJA09Az/GRO3zpzEDP9bs8CQNPQM/55TuonodAz/4QO6ieh0DQAjo8E424QNAGZDvn3PpA0AqPO6ieh0DQDrk7vbNXQNAS4zvn3PpA0BcOO5OJtkDQGzg7UsAsQNAfYjr82d5A0CONOvzZ3kDQJ7c6KGbQQNAr4bV+h2BA0DAMOihm0EDQNDa1fodgQNA4YbV+h2BA0DyLtX6HYEDQQLW1fodgQNBE4DooZtBA0EkKtX6HYEDQTTS1fodgQNBRX7V+h2BA0FWJtX6HYEDQWbO1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.49594975951905,
+        "center_signal": 2.6112644807316143,
+        "high_dac": 6.504336533066144,
+        "high_resolving_power": 414.0892630906865,
+        "high_signal": 0.44744791492302016,
+        "low_dac": 6.487562985971956,
+        "low_resolving_power": 3174.141107842619,
+        "low_signal": 0.44476987748049707,
+        "points": "QM9j8b7udZFAz2gbPhbIUkDPbEU+WVAyQM9wcD2zMeRAz3SavmLzzUDPeMQ9SRCEQM987z6YH5lAz4EZvoXdJUDPhUS+lSdxQM+Jbr3a8VtAz42YPfU8KEDPkcM+8b1mQM+V7T31PChAz5oXPuG1sUDPnkI/iZLyQM+ibD+zzsFAz6aWQAzTWUDPqsFAJmh+QM+u60ANrVpAz7MVQCAUfEDPt0BAAmUMQM+7akANKP5Az7+UQA04kEDPw79AGRVRQM/H6UATJt5Az8wTQA+fqEDP0D5ABMwIQM/UaEAWULBAz9iTQAk03kDP3L1AGdf/QM/g50AJuThAz+USQAJs1UDP6TxAI9J0QM/tZkAOvdxAz/GRQACxH0DP9btAEd/WQM/55UANvOxAz/4QQAttNUDQAjpAG2UoQNAGZEAWIfhA0AqPQAV3TUDQDrk/8bHKQNAS4z//zXVA0BcOP7bYuUDQGzg/3GnpQNAfYj+0x7RA0CONPuLsk0DQJ7c+bbXeQNAr4T5OoRNA0DAMvsEUoUDQNDa+K5ydQNA4Yb84Ib5A0DyLvjbG+EDQQLU+dIJzQNBE4D421VFA0EkKvF03r0DQTTQ8H3GmQNBRXz9aCshA0FWJvQjfeEDQWbO+E9L5",
+        "resolution": 355.44670285087506
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
