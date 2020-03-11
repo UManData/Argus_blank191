@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9kb7V+h2BAz2iZtX6HYEDPbMS1fodgQM9w7rV+h2BAz3UYtX6HYEDPeUO1fodgQM99bTooZtBAz4GXtX6HYEDPhcK1fodgQM+J7LV+h2BAz44WtX6HYEDPkkE6KGbQQM+Wa7V+h2BAz5qVOqiGokDPnsA6KGbQQM+i6jooZtBAz6cUOihm0EDPqz87UsAsQM+vaTtSwCxAz7OTO+fc+kDPt747UsAsQM+76DuonodAz8ASO5OJtkDPxD07/PHMQM/IZzwzLPRAz8ySOvzZ3kDP0Lw7KJaNQM/U5jwoootAz9kRO72zV0DP3Ts7/PHMQM/hZTvSyChAz+WQO72zV0DP6bo70sgoQM/t5Dvn3PpAz/IPPAkDT0DP9jk7qJ6HQM/6YzuonodAz/6OO3zpzEDQArg7vbNXQNAG4jt86cxA0AsNO9LIKEDQDzc7fOnMQNATYTt86cxA0BeMO5OJtkDQG7Y6/NneQNAf4TtSwCxA0CQLOvzZ3kDQKDU6/NneQNAsYLV+h2BA0DCKtX6HYEDQNLS1fodgQNA437V+h2BA0D0JtX6HYEDQQTO1fodgQNBFXrV+h2BA0EmItX6HYEDQTbK1fodgQNBR3bV+h2BA0FYHtX6HYEDQWjG1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.495889639278569,
+        "center_signal": 2.7785655449720856,
+        "high_dac": 6.504456773547106,
+        "high_resolving_power": 1115.0855429554142,
+        "high_signal": 0.4772977313900351,
+        "low_dac": 6.487322505010032,
+        "low_resolving_power": 455.60041209562576,
+        "low_signal": 0.5330549556799192,
+        "points": "QM9kb76l5mVAz2iZPSI4P0DPbMQ+b6ctQM9w7r5xB51Az3UYvh0MR0DPeUO9rz+hQM99bT1gXyBAz4GXPiF3SkDPhcI+v3cdQM+J7D6n6ItAz44WPv/Ty0DPkkE+O7CGQM+Waz7EUpBAz5qVP09Z80DPnsA/t6L/QM+i6j/HYS5Az6cUP/YDC0DPqz9AK4UUQM+vaUAWWHpAz7OTQBiYuEDPt75AIe+RQM+76EAaBrlAz8ASQBx1uUDPxD1ALu2HQM/IZ0Aa8FhAz8ySQBpUmUDP0LxAK0bDQM/U5kAnSl9Az9kRQA0hNUDP3TtAKoQHQM/hZUAomU5Az+WQQB21BkDP6bpAKKEYQM/t5EATo3RAz/IPP/193UDP9jlALBFLQM/6Y0At7HZAz/6OQCoW+kDQArhAFG3oQNAG4kARijBA0AsNQAlEcEDQDzdAFXaoQNATYUAMASJA0BeMP9P2k0DQG7Y/3nsXQNAf4T+2qgtA0CQLPw+zukDQKDU+QIu7QNAsYD7XBfVA0DCKvZvUH0DQNLS9poJ1QNA4376fGshA0D0JPifHbEDQQTO7kzr0QNBFXj3QVHhA0EmIPdcg0kDQTbK+Gp7iQNBR3b6xEElA0FYHvgwOfEDQWjE+xv53",
+        "resolution": 306.0490018885815
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
