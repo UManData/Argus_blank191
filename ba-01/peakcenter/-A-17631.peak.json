@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9kMLV+h2BAz2haOihm0EDPbIS1fodgQM9wr7V+h2BAz3TZtX6HYEDPeQS1fodgQM99LrV+h2BAz4FYtX6HYEDPhYO1fodgQM+JrbV+h2BAz43XtX6HYEDPkgI6/NneQM+WLLV+h2BAz5pWtX6HYEDPnoE6KGbQQM+iqzooZtBAz6bVO6ieh0DPqwA7vbNXQM+vKjvSyChAz7NUPBONuEDPt388CQNPQM+7qTtSwCxAz7/TPB4YIUDPw/4759z6QM/IKDxIQchAz8xTPBONuEDP0H07/PHMQM/UpzxdVp1Az9jSPHJrckDP3Pw8cmtyQM/hJjxn4QdAz+VRO/zxzEDP6Xs8E424QM/tpTweGCFAz/HQPAkDT0DP9fo8CQNPQM/6JDx89dxAz/5PO/zxzEDQAnk8CQNPQNAGozu9s1dA0ArOO+fc+kDQDvg7vbNXQNATIjuTibZA0BdNO5OJtkDQG3c7k4m2QNAfoTsolo1A0CPMO1LALEDQJ/a1fodgQNAsIbV+h2BA0DBLtX6HYEDQNHW1fodgQNA4oLV+h2BA0DzKtX6HYEDQQPS1fodgQNBFH7V+h2BA0ElJtX6HYEDQTXO1fodgQNBRnrV+h2BA0FXItX6HYEDQWfK1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.496009879759532,
+        "center_signal": 3.934297048532026,
+        "high_dac": 6.504366593186385,
+        "high_resolving_power": 527.3502325203108,
+        "high_signal": 0.7846084431327506,
+        "low_dac": 6.487653166332679,
+        "low_resolving_power": 1269.9623254902097,
+        "low_signal": 0.7819306999605834,
+        "points": "QM9kML2kkU5Az2havjmwn0DPbIS+kUVZQM9wr72W+TxAz3TZPTmGzEDPeQS+BzOtQM99Lr2X8dBAz4FYPoy1wkDPhYO+g630QM+Jrb6M5vtAz43XPSYaq0DPkgI+k8CXQM+WLD4HuotAz5pWPyZLF0DPnoE/4XXBQM+iq0AX5Z1Az6bVQFo2kEDPqwBAWzfOQM+vKkBVR8lAz7NUQFYp1UDPt39AYRCUQM+7qUBfHaNAz7/TQGay6UDPw/5AevxbQM/IKEBv5bFAz8xTQFx3a0DP0H1AaMUYQM/Up0BC5IVAz9jSQFnZBUDP3PxAWKkDQM/hJkBuKThAz+VRQGu5a0DP6XtAaSKpQM/tpUBzARdAz/HQQGd9oEDP9fpAYeMSQM/6JEBwiXJAz/5PQFYiCUDQAnlAVsW6QNAGo0BZVIBA0ArOQFVuwkDQDvhAaXChQNATIkBG6SVA0BdNQFcy2kDQG3dAIy7kQNAfoT/14+lA0CPMP0eyskDQJ/Y/DgBxQNAsIT5yFNBA0DBLPhZMAUDQNHW9n7ZtQNA4oL4KHV1A0DzKvgVCjUDQQPQ+konBQNBFHz5p00FA0ElJvrLDLUDQTXO/KTY6QNBRnr4/g+tA0FXIPQrpu0DQWfK9bdw8",
+        "resolution": 354.28458251365697
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
