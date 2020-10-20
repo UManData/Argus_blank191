@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9L3bV+h2BAz1AHtX6HYEDPVDG1fodgQM9YXLV+h2BAz1yGtX6HYEDPYLC1fodgQM9k27V+h2BAz2kFtX6HYEDPbS+1fodgQM9xWrV+h2BAz3WEOqiGokDPea46qIaiQM992TooZtBAz4IDOihm0EDPhi21fodgQM+KWDsolo1Az46COvzZ3kDPkqw7KJaNQM+W1zsolo1Az5sBOvzZ3kDPnys7qJ6HQM+jVjsolo1Az6eAO6ieh0DPq6s7UsAsQM+v1Tsolo1Az7P/O3zpzEDPuCo7KJaNQM+8VDvn3PpAz8B+O5OJtkDPxKk7k4m2QM/I0zuTibZAz8z9O1LALEDP0Sg8E424QM/VUjuonodAz9l8O6ieh0DP3ac7KJaNQM/h0TtSwCxAz+X7O6ieh0DP6iY7k4m2QM/uUDuTibZAz/J6O9LIKEDP9qU7KJaNQM/6zzuonodAz/75OyiWjUDQAyQ7k4m2QNAHTjooZtBA0At5OyiWjUDQD6M6qIaiQNATzbV+h2BA0Bf4Oihm0EDQHCK1fodgQNAgTLV+h2BA0CR3tX6HYEDQKKG1fodgQNAsy7V+h2BA0DD2tX6HYEDQNSC1fodgQNA5SrV+h2BA0D11tX6HYEDQQZ+1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.493010420841684,
+        "center_signal": 2.4555776716890394,
+        "high_dac": 6.501276953907817,
+        "high_resolving_power": 1137.8569122806598,
+        "high_signal": 0.46093086138483724,
+        "low_dac": 6.484743887775552,
+        "low_resolving_power": 553.566188034183,
+        "low_signal": 0.40842091976137107,
+        "points": "QM9L3bzUdkhAz1AHPS1taUDPVDG9PbyFQM9YXD4izixAz1yGPfX5rEDPYLA+2CwQQM9k2zxjmlZAz2kFvjIF4UDPbS8+NUINQM9xWr0wJINAz3WEvh2ifUDPea69prg9QM992T5bnwRAz4IDPlg4ykDPhi0/kg8yQM+KWD97qBdAz46CP5emN0DPkqw/ruxLQM+W10AUM71Az5sBQADcakDPnys/4vRyQM+jVj/VCHZAz6eAP9IN6kDPq6s/5rlvQM+v1T+x9jFAz7P/P+Pd6UDPuCo/9vVvQM+8VD/o6cNAz8B+P+XfiEDPxKk/6cOsQM/I0z/RQ5xAz8z9P9CYbUDP0Sg/8uJ+QM/VUj/01JxAz9l8P/hrCUDP3adAHHH1QM/h0T/OCtZAz+X7P/O8a0DP6iY/9jqjQM/uUD/7hPJAz/J6P+5ioUDP9qU/1urmQM/6zz+9BeVAz/75P8En9EDQAyQ/k6OcQNAHTj80lwtA0At5PrZqbEDQD6O+JeMdQNATzb0uM15A0Bf4PpfRfUDQHCI9a5OIQNAgTL5p2IdA0CR3vaipXUDQKKG8km7/QNAsy74F2RJA0DD2PbyttEDQNSA+sY8RQNA5Sr33To1A0D11PRBLoEDQQZ+9citO",
+        "resolution": 364.8510360360337
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
